@@ -1,0 +1,43 @@
+{
+    "nick": "mirage",
+    "color": {
+        "bg": "black",
+        "mg": "gray",
+        "fg": "white",
+        "c": "blue"
+    },
+    "control": {
+        "C-q": "quit_app",
+        "left": "input_left",
+        "right": "input_right",
+        "up": "hist_up",
+        "down": "hist_down",
+        "home": "input_begin",
+        "end": "input_end",
+        "space": "input_space",
+        "return": "input_enter",
+        "backspace": "input_backspace",
+        "delete": "input_delete",
+
+        "C-up": "scroll_up",
+        "C-down": "scroll_down",
+
+        "C-right": "tab_next",
+        "C-left": "tab_prev",
+
+        "C-e": "split vertical",
+        "C-o": "split horizontal",
+        "C-x": "close pane",
+        "S-up": "resizz up",
+        "S-down": "resize down",
+        "S-left": "resize left",
+        "S-right": "resize right",
+
+        "C-w": "close window"
+    },
+    "cursor": {
+        "artificial": true,
+        "shape": "block",
+        "blink": false
+    }
+}

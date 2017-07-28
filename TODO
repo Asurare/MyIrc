@@ -1,0 +1,22 @@
+- Faire la propogation pour les fonctions suivantes: [X]
+  - join [X]
+  - part [X]
+  - nick [X]
+  - quit [X]
+
+- Faire la fonction USERS (list les users du serveur) [X]
+
+- Gérer les ":" [X]
+
+- Enlever le Debug [X]
+
+- Remplacer les buff temporaires par un buff circulaire par client [X]
+
+- Faire le client [X]
+
+- Faire les bonus suivants: [0]
+  - kick [0]
+  - notice [0]
+  - gestion des modes (superuser channel, superuser serveur) [0]
+
+- Cabler le client GUI sur le client en ligne de commande [0]

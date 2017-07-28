@@ -1,0 +1,16 @@
+{
+  "name": "gui",
+  "version": "1.0.0",
+  "description": "a gui for the irc client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guinau_v",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "split-stream": "^0.2.0",
+    "yargs-parser": "^2.4.0"
+  }
+}
